@@ -1,0 +1,4 @@
+.jshintrc
+=========
+
+Javascript code conventions
